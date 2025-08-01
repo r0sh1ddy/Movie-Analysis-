@@ -1,5 +1,8 @@
-# Ignore zippedData folder and all its contents
+# Ignore large data files
 zippedData/
+*.zip
+*.gz
+*.db
 
 # Ignore unwanted documentation files
 CONTRIBUTING.md
@@ -9,6 +12,7 @@ README.md
 # Ignore other files you don't need
 index.ipynb
 movie_data_erd.jpeg
+student.ipynb
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
@@ -16,3 +20,9 @@ movie_data_erd.jpeg
 # Python cache
 __pycache__/
 *.pyc
+*.pyo
+
+# Environment files
+.env
+venv/
+env/
