@@ -88,10 +88,10 @@ All visualizations were created in **Python (Seaborn + Matplotlib)** and **Table
 
 ## Summary of Recommendations
 
-1. 🎭 **Invest in high-ROI genres** like Horror and Documentary — small budgets can yield large returns.
-2. 📆 **Time your movie releases** for **Q3 & Q4 (July, October, December)** — these months show strong revenue returns.
-3. ⭐ **Don’t equate popularity with quality** — viewer satisfaction (ratings) and profitability aren’t always aligned.
-4. 💎 **Bonus**: Focus on mid-range popularity movies with high ROI potential — hidden gems that outperform expectations.
+1. **Invest in high-ROI genres** like Horror and Documentary — small budgets can yield large returns.
+2. **Time your movie releases** for **Q3 & Q4 (July, October, December)** — these months show strong revenue returns.
+3. **Don’t equate popularity with quality** — viewer satisfaction (ratings) and profitability aren’t always aligned.
+4. **Bonus**: Focus on mid-range popularity movies with high ROI potential — hidden gems that outperform expectations.
 
 ---
 
