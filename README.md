@@ -102,5 +102,5 @@ The data shows that **budget and release timing are just as critical as content*
 
 >  This project is accompanied by:
 > - `notebook.ipynb` (full analysis with Python code)
-> - `Tableau Public dashboard` (interactive visuals)
+> - `Tableau Public dashboard` (interactive visuals)(https://public.tableau.com/app/profile/rosemary.wanjiru/viz/MovieAnalysis_17544072088810/Movie-Analysis)
 > - `movies_metadata_cleaned.csv` (final dataset)
