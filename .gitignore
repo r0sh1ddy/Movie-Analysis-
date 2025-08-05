@@ -7,7 +7,6 @@ zippedData/
 # Ignore unwanted documentation files
 CONTRIBUTING.md
 LICENSE.md
-README.md
 
 # Ignore other files you don't need
 index.ipynb
